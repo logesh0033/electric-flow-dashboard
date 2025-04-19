@@ -1,8 +1,7 @@
-
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { Separator } from "@/components/ui/separator";
-import { ArrowUpRight, Users, LightbulbIcon, CreditCard, TrendingUp } from "lucide-react";
+import { ArrowUpRight, Users, LightbulbIcon, CreditCard, TrendingUp, FileText } from "lucide-react";
 
 const Dashboard = () => {
   return (
